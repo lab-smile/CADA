@@ -8,9 +8,8 @@ This is a Pytorch implementation of the paper "Multi-scale Collaborative Adversa
 ### Requirements
 
 * Python 3.6
-* Python 1.0.0 (Type Error)
+* Python 1.0.0 
 * Albumentations
-(Figure out the Win Linux or Mac)
 
 A working environment can be obtained by running conda create -f packages.yml. Edit the header title of the yml file and the end line to your discretion.
 
@@ -48,7 +47,7 @@ segmenting retinal optic disc and cup from fundus images stemming from the REFUG
  
 ## 4. Training and testing
 ### 1.  Download the data https://refuge.grand-challenge.org 
-* REFUGE: https://refuge.grand-challenge.org (Need to join REFUGE and wait for reviewing)
+* REFUGE: https://refuge.grand-challenge.org
 * Drishti-GS: https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
 * Rim-One-r3: https://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
 
