@@ -1,7 +1,7 @@
 numpy
 scipy
 matplotlib
-opencv
+opencv-python
 Scikit-Image
 tensorboard
 imgaug
