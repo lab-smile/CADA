@@ -10,7 +10,9 @@ This is a Pytorch implementation of the paper "Multi-scale Collaborative Adversa
 * Python 3.6
 * Pytorch 1.0.0 
 * Albumentations
+
 See INSTALL.md
+
 A working environment can be obtained by running conda create -f packages.yml. Edit the header title of the yml file and the end line to your discretion.
 
 ## 1. Abstract
