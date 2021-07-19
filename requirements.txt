@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+opencv
+Scikit-Image
+tensorboard
+imgaug
+albumentations
